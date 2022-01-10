@@ -11,7 +11,12 @@
 * [Вконтакте](https://vk.com/vincenzo_costa)
 * [Робохомячок](https://forum.robo-hamster.ru/members/886/)
 #
+```
+const discord = require('discord.js')
+```
+#
 > Ты кто?
 >> Я реальный пацан из Ачинска
 #
+
 ![git](https://img.shields.io/github/followers/12vincenzo12?style=social)
