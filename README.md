@@ -12,7 +12,7 @@
 * [Робохомячок](https://forum.robo-hamster.ru/members/886/)
 #
 ```
-const discord = require('discord.js')
+const discord = require("discord.js")
 ```
 #
 > Ты кто?
