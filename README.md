@@ -11,12 +11,14 @@
 * [Вконтакте](https://vk.com/vincenzo_costa)
 * [Робохомячок](https://forum.robo-hamster.ru/members/886/)
 #
-```
+```javascript 
 const discord = require("discord.js");
 ```
 #
 > Ты кто?
 >> Я реальный пацан из Ачинска
+
+![gif](https://c.tenor.com/TQNUy2CbEKAAAAAC/edgar-brawl-stars.gif)
 #
 
-![git](https://img.shields.io/github/followers/12vincenzo12?style=social)
+![github](https://img.shields.io/github/followers/12vincenzo12?style=social)
