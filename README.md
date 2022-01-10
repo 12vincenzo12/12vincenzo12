@@ -7,3 +7,7 @@
 
 **Деятельность: Начинающий node js Developer**
 #
+**Контактная информация:**
+* [Вконтакте](https://vk.com/vincenzo_costa)
+* [Робохомячок](https://forum.robo-hamster.ru/members/886/)
+#
