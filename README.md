@@ -11,3 +11,6 @@
 * [Вконтакте](https://vk.com/vincenzo_costa)
 * [Робохомячок](https://forum.robo-hamster.ru/members/886/)
 #
+> Ты кто?
+>> Я реальный пацан из Ачинска
+#
